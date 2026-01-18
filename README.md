@@ -1,5 +1,5 @@
 # challenge-algorithm
-[![Build Status](http://13.61.171.101/buildStatus/icon?job=challenge-agorithm&style=flat-square)](http://13.61.171.101/job/challenge-agorithm/)
+[![Build Status](http://13.61.171.101/buildStatus/icon?job=challenge-agorithm)](http://13.61.171.101/job/challenge-agorithm/)
 
 # 03_05 Challenge Connect Jenkins to GitHub
 
